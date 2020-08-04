@@ -1,1 +1,9 @@
-[{"id":12346,"title":"booking.com","imageUrl":"https://www.numeroservicioalcliente.com/wp-content/uploads/2016/05/booking-com-750x410.png","description":"fucking test","price":"9000"}]
+[
+  {
+    "id": 12346,
+    "title": "booking.com",
+    "imageUrl": "https://www.numeroservicioalcliente.com/wp-content/uploads/2016/05/booking-com-750x410.png",
+    "description": "fucking test",
+    "price": "9000"
+  }
+]
