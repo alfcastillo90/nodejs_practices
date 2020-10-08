@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-complete-guide",
+  "name": "course-project",
   "version": "1.0.0",
   "description": "Complete Node.js Guide",
   "main": "app.js",
@@ -14,10 +14,12 @@
     "nodemon": "^1.18.3"
   },
   "dependencies": {
+    "@types/mongodb": "^3.5.27",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
+    "mongodb": "^3.6.2",
     "mysql2": "^2.1.0",
     "pug": "^2.0.3",
     "sequelize": "^6.3.4"
